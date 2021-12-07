@@ -76,7 +76,7 @@ const SignUp = styled.a`
     font-weight: bold;
     color: #f9f9f9;
     background-color: #0063e5;
-    margin-bottom: 12pxl
+    margin-bottom: 12px;
     width: 100%;
     letter-spacing: 1.5px;
     font-size: 22px;
